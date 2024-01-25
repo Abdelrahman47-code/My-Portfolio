@@ -4,7 +4,7 @@ Welcome to my project portfolio! This repo is a collection of my various data sc
 ## Data Science Projects
 
 | ID |               Title               |    LinkedIn Link   | ID |               Title               |   LinkedIn Link   |
-| -- | --------------------------------- |    -------------   | -- | --------------------------------- |   -------------   |
+| -- | --------------------------------- | ------------------ | -- | --------------------------------- | ----------------- |
 | 1  | 10 Monkey Species Classification       | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_monkeyclassification-monkeyspecies-datascience-activity-7151296487639965696-eAN9/) | 2  | Cars Prices EDA & Prediction   | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_datascience-machinelearning-github-activity-7147144691325603840-eMQv/) |
 | 3  | House Prices Prediction - Customers Clustering       | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_prodigyinfotech-datascience-machinelearning-activity-7144066087385563136-JWq2/) | 4 | 10 Food Types - Cats vs. Dogs Classification | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_prodigyinfotech-machinelearning-deeplearning-activity-7146181371063947264-aZAI/) |
 | 5  | Credit Card Fraud Detection | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_datascience-internship-codeclause-activity-7079145025661472768-lH9r/) | 6  | Movie Recommendation | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_datascience-machinelearning-movierecommendation-activity-7079928456452448256-OUc8/) |
@@ -18,23 +18,18 @@ Welcome to my project portfolio! This repo is a collection of my various data sc
 
 ---
 
-## Data Analysis Projects (Dashboards)
+## Data Analysis Projects
 
-| ID | Title                                  | LinkedIn Link |
-| -- | -------------------------------------- | ------------- |
-| 1  | Video Game Genres                      | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_videogames-sales-dashboard-activity-7034800497316311040-bYmR/) |
-| 2  | Supermarkets Tier Sales                | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_dashboard-dataanalysis-excel-activity-7036108671801536512-O8rz/) |
-| 3  | Super Store in USA                     | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_dashboard-dataanalysis-excel-activity-7039717117075566592-gArg/) |
-| 4  | Cars Sales in Armenia                  | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_sales-kaggle-cars-activity-7050084412574638080-HHO4/)
-| 5  | Call Center Agents                     | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_data-training-powerbi-activity-7057561853740097536-HZwc/)
-| 6  | Call Center Customer Retention         | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_powerbi-internship-pwc-activity-7060156624157519873-4gxX/)
-| 7  | Call Center Diversity Inclusion        | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_powerbi-internship-pwc-activity-7063564977160228865-X7OH/)
-| 8  | Adidas Sales in USA                    | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_sales-kaggle-dashboard-activity-7069948657982218240-j-L5/)
-| 9  | Global Superstore Sales                | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_datavisualization-powerbi-businessintelligence-activity-7072591188804931584-ifPK/)
-| 10 | Al Ahly Vs. Manchester City            | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_football-uefa-caf-activity-7074037507067174912-hQcp/)
-| 11 | Superstore - Global Terrorism - IPL    | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_gripseptember23-virtualinternship-thesparksfoundation-activity-7105185670838595584--2Bc/)
-| 12 | COVID-19 Impacts                       | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_asterisctechnocrat-virtualinternship-datascience-activity-7110534569530945536-QQNF/)
-| 13 | Holy Qur'an Analysis                   | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_holyquran-python-dataanalysis-activity-7148780421017735169-mcqD/)
+| ID |               Title               |    LinkedIn Link    | ID |               Title               |    LinkedIn Link    |
+| -- | --------------------------------- | ------------------- | -- | --------------------------------- | ------------------- |
+| 1  | Holy Qur'an Analysis              | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_holyquran-python-dataanalysis-activity-7148780421017735169-mcqD/) | 2  | Video Game Genres | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_videogames-sales-dashboard-activity-7034800497316311040-bYmR/) |
+| 3  | Supermarkets Tier Sales           | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_dashboard-dataanalysis-excel-activity-7036108671801536512-O8rz/) | 4  | Super Store in USA | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_dashboard-dataanalysis-excel-activity-7039717117075566592-gArg/) |
+| 5  | Cars Sales in Armenia             | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_sales-kaggle-cars-activity-7050084412574638080-HHO4/) | 6  | Call Center Agents | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_data-training-powerbi-activity-7057561853740097536-HZwc/) |
+| 7  | Call Center Customer Retention    | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_powerbi-internship-pwc-activity-7060156624157519873-4gxX/) | 8  | Call Center Diversity Inclusion        | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_powerbi-internship-pwc-activity-7063564977160228865-X7OH/) |
+| 9  | Adidas Sales in USA | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_sales-kaggle-dashboard-activity-7069948657982218240-j-L5/) | 10  | Global Superstore Sales | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_datavisualization-powerbi-businessintelligence-activity-7072591188804931584-ifPK/) |
+| 11 | Al Ahly Vs. Manchester City       | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_football-uefa-caf-activity-7074037507067174912-hQcp/) | 12 | Superstore - Global Terrorism - IPL    | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_gripseptember23-virtualinternship-thesparksfoundation-activity-7105185670838595584--2Bc/) |
+| 13 | COVID-19 Impacts                  | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_asterisctechnocrat-virtualinternship-datascience-activity-7110534569530945536-QQNF/) |
+
 
 ---
 
