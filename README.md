@@ -10,31 +10,33 @@ Welcome to my Data Science Projects Portfolio! This repository is a collection o
 | 1   | Credit Card Fraud Detection            | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_datascience-internship-codeclause-activity-7079145025661472768-lH9r/) |
 | 2   | Movie Recommendation                   | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_datascience-machinelearning-movierecommendation-activity-7079928456452448256-OUc8/) |
 | 3   | Breast Cancer Diagnosis        | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_dataanalysis-machinelearning-breastcancerdiagnosis-activity-7080410362994466816-dZoD/) |
-| 4   | Machine Learning Classification        | [LinkedIn Post]() |
-| 5   | Machine Learning Classification        | [LinkedIn Post]() |
-| 6   | Machine Learning Classification        | [LinkedIn Post]() |
-| 7   | Machine Learning Classification        | [LinkedIn Post]() |
-| 8   | Machine Learning Classification        | [LinkedIn Post]() |
-| 9   | Machine Learning Classification        | [LinkedIn Post]() |
-| 10  | Machine Learning Classification        | [LinkedIn Post]() |
-| 11  | Machine Learning Classification        | [LinkedIn Post]() |
-| 12  | Machine Learning Classification        | [LinkedIn Post]() |
-| 13  | Machine Learning Classification        | [LinkedIn Post]() |
-| 14  | Machine Learning Classification        | [LinkedIn Post]() |
-| 15  | Machine Learning Classification        | [LinkedIn Post]() |
-| ... | ...                                    | ...           |
+| 4   | Customer Lifetime Value        | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_forage-dataanalytics-kpmg-activity-7087669877401952256-rLyD/) |
+| 5   | Plant Disease Classification        | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_syncinterns-syncintern-plantdiseasedetection-activity-7089312276876279809-Nrex/) |
+| 6   | Digit Recognizer        | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_syncinterns-syncintern-artificialintelligenceintern-activity-7091302215163817984-rCEf/) |
+| 7   | Dental Caries Detection        | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_machinelearning-computervision-healthcare-activity-7095665852905136128-ag12/) |
+| 8   | Study Hours & Scores - Iris Flowers       | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_gripsept23-gripseptember2023-thesparksfoundation-activity-7106618825579651073-JR3X/) |
+| 9   | Video Game Sales Prediction        | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_asterisctechnocrat-internship2023-virtualinternship-activity-7111252469623533569-xAUs/) |
+| 10  | Titanic Survive Prediction        | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_bharatintern-virtualinternship-internship2023-activity-7115689550353461248-_yw_/) |
+| 11  | Instagram Reach Forecasting        | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_asterisctechnocrat-datascience-virtualinternship-activity-7112472745568854016-2HNs/) |
+| 12  | Stock Price Prediction       | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_asterisctechnocrat-virtualinternship-internship2023-activity-7113173830533025792-NVoT/) |
+| 13  | Oil Price Prediction        | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_bharatintern-virtualinternship-datascience-activity-7115087803180331008-Jt_a/) |
+| 14  | Handwritten Math Symbols        | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_handwrittensymoblsdetection-cnn-datascience-activity-7140355691730419713-vIt9/) |
+| 15  | House Prices Prediction - Customers Clustering       | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_prodigyinfotech-datascience-machinelearning-activity-7144066087385563136-JWq2/) |
+| 16  | 10 Food Types - Cats vs. Dogs Classification  | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_prodigyinfotech-machinelearning-deeplearning-activity-7146181371063947264-aZAI/)           |
+| 17  | Cars Prices EDA & Prediction  | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_datascience-machinelearning-github-activity-7147144691325603840-eMQv/)           |
+| 18  | Japanese Universities Analytics  | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_datascience-machinelearning-dataanalytics-activity-7149450866381545473-HJUg/)           |
+| 19  | 10 Monkey Species Classification  | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_monkeyclassification-monkeyspecies-datascience-activity-7151296487639965696-eAN9/)           |
 
+---
 
-
-## Machine Learning Projects
+## Web Scraping Projects
 
 | ID  | Title                                  | LinkedIn Link |
 | --- | -------------------------------------- | ------------- |
-| 1   | Exploratory Data Analysis              | [LinkedIn Post](https://www.linkedin.com/posts/your-linkedin-profile/exploratorydataanalysis-datascience-datavisualization-activity1234567890/) |
-| 2   | Machine Learning Classification        | [LinkedIn Post](https://www.linkedin.com/posts/your-linkedin-profile/machinelearning-datascience-classification-activity1234567890/) |
-| 3   | Natural Language Processing            | [LinkedIn Post](https://www.linkedin.com/posts/your-linkedin-profile/naturallanguageprocessing-datascience-nlp-activity1234567890/) |
+| 1   | WUZZUF Jobs Scraper                    | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_python-webscraping-tkinter-activity-7154872746760384512-VKeu/) |
 | ... | ...                                    | ...           |
 
+---
 
 ## Desktop App Projects
 
@@ -43,6 +45,7 @@ Welcome to my Data Science Projects Portfolio! This repository is a collection o
 | 1   | Medical Center System   | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_python-data-database-activity-7066537982169686016-5PZD/) |
 | 2   | Packaging Shop System   | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_packaging-tinker-python-activity-7082584785407123456-m-Yr/) |
 
+---
 
 ## Data Analysis Projects (Dashboards)
 
@@ -58,7 +61,10 @@ Welcome to my Data Science Projects Portfolio! This repository is a collection o
 | 8  | Adidas Sales in USA                    | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_sales-kaggle-dashboard-activity-7069948657982218240-j-L5/)
 | 9  | Global Superstore Sales                | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_datavisualization-powerbi-businessintelligence-activity-7072591188804931584-ifPK/)
 | 10 | Al Ahly Vs. Manchester City            | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_football-uefa-caf-activity-7074037507067174912-hQcp/)
-| ... | ...                                    | [LinkedIn Post]()
+| 11 | Superstore - Global Terrorism - IPL    | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_gripseptember23-virtualinternship-thesparksfoundation-activity-7105185670838595584--2Bc/)
+| 12 | COVID-19 Impacts                       | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_asterisctechnocrat-virtualinternship-datascience-activity-7110534569530945536-QQNF/)
+| 13 | Holy Qur'an Analysis                   | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_holyquran-python-dataanalysis-activity-7148780421017735169-mcqD/)
+
 
 
 
@@ -66,8 +72,6 @@ Feel free to reach out if you have any questions or if you're interested in coll
 
 ---
 
-**Your Name**
-Data Scientist and Web Developer
+# Made by: Abdelrahman Eldaba 👨‍💻
 
-[LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-[GitHub](https://github.com/your-github-profile/)
+Connect with me on [LinkedIn](https://www.linkedin.com/in/abdelrahman-eldaba-739805192/) 🌐
