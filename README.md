@@ -1,7 +1,7 @@
 # My Portfolio
 Welcome to my project portfolio! This repo is a collection of my various data science, data analysis, and desktop applications tasks and projects. Below are tables listing the projects with their ID, title, and LinkedIn post link.
 
-## Data Science Projects
+## Data Science Projects 📊🧠💻
 
 | ID |               Title               |    Post   | ID |               Title               |   Post   |
 | -- | --------------------------------- | --------- | -- | --------------------------------- | -------- |
@@ -18,7 +18,7 @@ Welcome to my project portfolio! This repo is a collection of my various data sc
 
 ---
 
-## Data Analysis Projects
+## Data Analysis Projects 📈📊🧐
 
 | ID |               Title               |    Post    | ID |               Title               |    Post    |
 | -- | --------------------------------- | ---------- | -- | --------------------------------- | ---------- |
@@ -33,7 +33,7 @@ Welcome to my project portfolio! This repo is a collection of my various data sc
 
 ---
 
-## Web Scraping Projects
+## Web Scraping Projects 🌐🕸️👀
 
 | ID | Title                             |    Post    |
 | -- | --------------------------------- | ---------- |
@@ -41,7 +41,7 @@ Welcome to my project portfolio! This repo is a collection of my various data sc
 
 ---
 
-## Desktop App Projects
+## Desktop App Projects 🖥️📱👨‍💻
 
 | ID | Title                             |    Post    |
 | -- | --------------------------------- | ---------- |
@@ -51,7 +51,7 @@ Welcome to my project portfolio! This repo is a collection of my various data sc
 ---
 ---
 
-## Certificate Showcase
+## Certificate Showcase 🏆📜🎓
 
 | ID | Title                             |    Issuing Organization    |    Earn Date    |    Certificate Link    |
 | -- | --------------------------------- | -------------------------- | --------------- | ---------------------- |
