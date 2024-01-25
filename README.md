@@ -3,9 +3,9 @@ Welcome to my project portfolio! This repo is a collection of my various data sc
 
 ## Data Science Projects
 
-| ID | Title                                  | LinkedIn Link |
-| -- | -------------------------------------- | ------------- |
-| 1  | Credit Card Fraud Detection            | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_datascience-internship-codeclause-activity-7079145025661472768-lH9r/) || 2  | Movie Recommendation                   | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_datascience-machinelearning-movierecommendation-activity-7079928456452448256-OUc8/) |
+| ID | Title                                  | LinkedIn Link | ID | Title                                  | LinkedIn Link |
+| -- | -------------------------------------- | ------------- | -- | -------------------------------------- | ------------- |
+| 1  | Credit Card Fraud Detection            | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_datascience-internship-codeclause-activity-7079145025661472768-lH9r/) | 2  | Movie Recommendation                   | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_datascience-machinelearning-movierecommendation-activity-7079928456452448256-OUc8/) |
 
 | 3  | Breast Cancer Diagnosis        | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_dataanalysis-machinelearning-breastcancerdiagnosis-activity-7080410362994466816-dZoD/) |
 | 4  | Customer Lifetime Value        | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_forage-dataanalytics-kpmg-activity-7087669877401952256-rLyD/) |
