@@ -43,25 +43,25 @@ Welcome to my project portfolio! This repo is a collection of my various data sc
 
 ## Desktop App Projects
 
-| ID | Title                              |    LinkedIn Link    |
-| -- | ---------------------------------- | ---------------- |
-| 1  | Medical Center System              | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_python-data-database-activity-7066537982169686016-5PZD/) |
-| 2  | Packaging Shop System              | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_packaging-tinker-python-activity-7082584785407123456-m-Yr/) |
+| ID | Title                             |    LinkedIn Link    |
+| -- | --------------------------------- | ------------------- |
+| 1  | Medical Center System             | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_python-data-database-activity-7066537982169686016-5PZD/) |
+| 2  | Packaging Shop System             | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_packaging-tinker-python-activity-7082584785407123456-m-Yr/) |
 
 ---
 ---
 
 ## Certificate Showcase
 
-| Certificate | Issuing Organization | Date Earned | Link to Certificate |
-| ... | ... | ... | ... |
-| Advanced Data Analysis Track | Udacity | January 2023 | [Certificate Link](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_dataanalysis-egfwd-udacity-activity-7028132217172242432-V8TE/) |
-| Data Science Orienation | Coursera | May 2023 | [Certificate Link](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_data-science-orientation-was-issued-by-coursera-activity-7052914464760705024-a-91/) |
-| Apploed Data Science Lab | WorldQuant University | May 2023 | [Certificate Link](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_applied-data-science-lab-was-issued-by-worldquant-activity-7059823697234173953-3hVM/) |
-| Power BI Virtual Internship | PwC | May 2023 | [Certificate Link](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_forage-activity-7063569298371284992-I3BT/) |
-| Virtual Internship Completion | CodeClause | July 2023 | [Certificate Link](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_codeclauseinternship-dataanalysis-datascience-activity-7081636688996761600-T9Fv/) |
-| Virtual Internship Completion | SYNC INTERN'S | August 2023 | [Certificate Link](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_syncinterns-virtualinternship-internship2023-activity-7100395818293059585-D1SS/) |
-| Virtual Internship Completion | Prodigy InfoTech | January 2024 | [Certificate Link](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_prodigyinfotech-mlinternship-machinelearning-activity-7147597677399117824-M-yf/) |
+| ID | Title                             |    Issuing Organization    |    Certificate Link    |
+| -- | --------------------------------- | -------------------------- | ---------------------- |
+| 1  | Advanced Data Analysis Track | Udacity | January 2023 | [Certificate Link](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_dataanalysis-egfwd-udacity-activity-7028132217172242432-V8TE/) |
+| 2  | Data Science Orienation | Coursera | May 2023 | [Certificate Link](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_data-science-orientation-was-issued-by-coursera-activity-7052914464760705024-a-91/) |
+| 3  | Apploed Data Science Lab | WorldQuant University | May 2023 | [Certificate Link](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_applied-data-science-lab-was-issued-by-worldquant-activity-7059823697234173953-3hVM/) |
+| 4  | Power BI Virtual Internship | PwC | May 2023 | [Certificate Link](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_forage-activity-7063569298371284992-I3BT/) |
+| 5  | Virtual Internship Completion | CodeClause | July 2023 | [Certificate Link](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_codeclauseinternship-dataanalysis-datascience-activity-7081636688996761600-T9Fv/) |
+| 6  | Virtual Internship Completion | SYNC INTERN'S | August 2023 | [Certificate Link](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_syncinterns-virtualinternship-internship2023-activity-7100395818293059585-D1SS/) |
+| 7  | Virtual Internship Completion | Prodigy InfoTech | January 2024 | [Certificate Link](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_prodigyinfotech-mlinternship-machinelearning-activity-7147597677399117824-M-yf/) |
 
 
 
