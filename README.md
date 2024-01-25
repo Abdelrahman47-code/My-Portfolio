@@ -3,8 +3,8 @@ Welcome to my project portfolio! This repo is a collection of my various data sc
 
 ## Data Science Projects
 
-| ID | Title                                       | LinkedIn Link | ID | Title                                       | LinkedIn Link |
-| -- | ------------------------------------------- | ------------- | -- | ------------------------------------------- | ------------- |
+| ID |               Title               |    LinkedIn Link   | ID |               Title               |   LinkedIn Link   |
+| -- | --------------------------------- |    -------------   | -- | --------------------------------- |   -------------   |
 | 1  | 10 Monkey Species Classification       | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_monkeyclassification-monkeyspecies-datascience-activity-7151296487639965696-eAN9/) | 2  | Cars Prices EDA & Prediction   | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_datascience-machinelearning-github-activity-7147144691325603840-eMQv/) |
 | 3  | House Prices Prediction - Customers Clustering       | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_prodigyinfotech-datascience-machinelearning-activity-7144066087385563136-JWq2/) | 4 | 10 Food Types - Cats vs. Dogs Classification | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_prodigyinfotech-machinelearning-deeplearning-activity-7146181371063947264-aZAI/) |
 | 5  | Credit Card Fraud Detection | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_datascience-internship-codeclause-activity-7079145025661472768-lH9r/) | 6  | Movie Recommendation | [LinkedIn Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_datascience-machinelearning-movierecommendation-activity-7079928456452448256-OUc8/) |
