@@ -1,5 +1,6 @@
 # My Portfolio
 Welcome to my project portfolio!
+
 This repo is a collection of my various data science, data analysis, and desktop applications tasks and projects. Below are tables listing the projects with their ID, title, and LinkedIn post link.
 
 ## Data Science Projects 📊🧠💻
