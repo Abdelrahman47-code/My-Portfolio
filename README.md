@@ -53,8 +53,8 @@ Welcome to my project portfolio! This repo is a collection of my various data sc
 
 ## Certificate Showcase
 
-| ID | Title                             |    Issuing Organization    |    Certificate Link    |
-| -- | --------------------------------- | -------------------------- | ---------------------- |
+| ID | Title                             |    Issuing Organization    |    Earn Date    |    Certificate Link    |
+| -- | --------------------------------- | -------------------------- | --------------- | ---------------------- |
 | 1  | Advanced Data Analysis Track | Udacity | January 2023 | [Certificate Link](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_dataanalysis-egfwd-udacity-activity-7028132217172242432-V8TE/) |
 | 2  | Data Science Orienation | Coursera | May 2023 | [Certificate Link](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_data-science-orientation-was-issued-by-coursera-activity-7052914464760705024-a-91/) |
 | 3  | Apploed Data Science Lab | WorldQuant University | May 2023 | [Certificate Link](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_applied-data-science-lab-was-issued-by-worldquant-activity-7059823697234173953-3hVM/) |
@@ -63,12 +63,9 @@ Welcome to my project portfolio! This repo is a collection of my various data sc
 | 6  | Virtual Internship Completion | SYNC INTERN'S | August 2023 | [Certificate Link](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_syncinterns-virtualinternship-internship2023-activity-7100395818293059585-D1SS/) |
 | 7  | Virtual Internship Completion | Prodigy InfoTech | January 2024 | [Certificate Link](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_prodigyinfotech-mlinternship-machinelearning-activity-7147597677399117824-M-yf/) |
 
-
-
-Feel free to reach out if you have any questions or if you're interested in collaborating!
-
 ---
 
 # Made by: Abdelrahman Eldaba 👨‍💻
+Feel free to reach out if you have any questions or if you're interested in collaborating!
 
 Connect with me on [LinkedIn](https://www.linkedin.com/in/abdelrahman-eldaba-739805192/) 🌐
