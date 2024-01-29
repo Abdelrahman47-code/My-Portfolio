@@ -40,6 +40,7 @@ This repo is a collection of my various data science, data analysis, and desktop
 | ID | Title                             |    Post    |
 | -- | --------------------------------- | ---------- |
 | 1  | WUZZUF Jobs Scraper               | [Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_python-webscraping-tkinter-activity-7154872746760384512-VKeu/) |
+| 2  | Extra (Saudi Store) Scraper       | [Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_webscraing-datascience-dataanalysis-activity-7157783542943363073-3GYf/)
 
 ---
 
