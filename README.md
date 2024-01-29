@@ -48,8 +48,8 @@ This repo is a collection of my various data science, data analysis, and desktop
 
 | ID | Title                             |    Post    |
 | -- | --------------------------------- | ---------- |
-| 1  | Medical Center System             | [Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_python-data-database-activity-7066537982169686016-5PZD/) |
-| 2  | Packaging Shop System             | [Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_packaging-tinker-python-activity-7082584785407123456-m-Yr/) |
+| 1  | Packaging Shop System             | [Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_packaging-tinker-python-activity-7082584785407123456-m-Yr/) |
+| 2  | Medical Center System             | [Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_python-data-database-activity-7066537982169686016-5PZD/) |
 
 ---
 ---
