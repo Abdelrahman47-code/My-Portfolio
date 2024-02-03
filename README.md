@@ -3,32 +3,7 @@ Welcome to my project portfolio!
 
 This repo is a collection of my various data science, data analysis, and desktop applications tasks and projects. Below are tables listing the projects with their ID, title, and LinkedIn post link.
 
-# Project Showcase
-
-Welcome to the showcase of my work! Explore the projects below:
-
-## Data Science Projects
-
-<!-- Image Gallery -->
-<p align="center">
-  <a href="link_to_project_1">
-    <img src="Prtfolio_Images/1.jpg" width="200" alt="Project 1">
-  </a>
-  <a href="link_to_project_2">
-    <img src="Prtfolio_Images/2.jpg" width="200" alt="Project 2">
-  </a>
-  <a href="link_to_project_2">
-    <img src="Prtfolio_Images/3.jpg" width="200" alt="Project 2">
-  </a>  <a href="link_to_project_2">
-    <img src="Prtfolio_Images/4.jpg" width="200" alt="Project 2">
-  </a>
-</p>
-
-<!-- Navigation Arrows -->
-<p align="center">
-  <a href="link_to_previous_page">◀️ Previous</a> |
-  <a href="link_to_next_page">Next ▶️</a>
-</p>
+![gif](porfolio_gif.gif)
 
 ## Data Science Projects 📊🧠💻
 
