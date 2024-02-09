@@ -18,7 +18,7 @@ This repo is a collection of my various data science, data analysis, and desktop
 | 13 | Video Game Sales Prediction        | [Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_asterisctechnocrat-internship2023-virtualinternship-activity-7111252469623533569-xAUs/) | 14 | Titanic Survive Prediction        | [Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_bharatintern-virtualinternship-internship2023-activity-7115689550353461248-_yw_/) |
 | 15 | Instagram Reach Forecasting        | [Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_asterisctechnocrat-datascience-virtualinternship-activity-7112472745568854016-2HNs/) | 16 | Stock Price Prediction       | [Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_asterisctechnocrat-virtualinternship-internship2023-activity-7113173830533025792-NVoT/) |
 | 17 | Oil Price Prediction        | [Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_bharatintern-virtualinternship-datascience-activity-7115087803180331008-Jt_a/) | 18 | Handwritten Math Symbols        | [Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_handwrittensymoblsdetection-cnn-datascience-activity-7140355691730419713-vIt9/) |
-| 19  | Japanese Universities Analytics  | [Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_datascience-machinelearning-dataanalytics-activity-7149450866381545473-HJUg/) |
+| 19  | Japanese Universities Analytics  | [Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_datascience-machinelearning-dataanalytics-activity-7149450866381545473-HJUg/) | 20 | Popular Mosques Classification | [Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_mosques-datascience-webscraping-activity-7161406645229498368-aBg1/)
 
 ---
 
@@ -42,7 +42,8 @@ This repo is a collection of my various data science, data analysis, and desktop
 | ID | Title                             |    Post    |
 | -- | --------------------------------- | ---------- |
 | 1  | WUZZUF Jobs Scraper               | [Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_python-webscraping-tkinter-activity-7154872746760384512-VKeu/) |
-| 2  | Extra (Saudi Store) Scraper       | [Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_webscraing-datascience-dataanalysis-activity-7157783542943363073-3GYf/)
+| 2  | Extra (Saudi Store) Scraper       | [Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_webscraing-datascience-dataanalysis-activity-7157783542943363073-3GYf/) |
+| 3  | Popular Mosques Images Scraping   | [Post](https://www.linkedin.com/posts/abdelrahman-eldaba-739805192_mosques-datascience-webscraping-activity-7161406645229498368-aBg1/)
 
 ---
 
